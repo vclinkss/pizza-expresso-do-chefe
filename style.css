@@ -122,7 +122,7 @@ ul li a {
     -webkit-backdrop-filter: blur(4px);
     text-decoration: none;
     font-weight: 500;
-    transition: background 0.5s;
+    transition: all .5s;
 }
 
 ul li a:hover {
